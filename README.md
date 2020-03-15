@@ -1,2 +1,2 @@
 # git-github
-To practice
+This is quick learning tutorial 
